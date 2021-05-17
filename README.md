@@ -1,2 +1,5 @@
 # Zookeeper
-This project shows the zoo workers all the animals in the zoo, if it enters its tag number. It is a Phyton project created 
+Zookeeper is a program that shows zoo workers all animals in the zoo when they enter their tag number. It's a Phyton project that was created with Jetbrains Academy.
+
+## Use
+Enter a number from 0 to 5 on the console to see an animal. If you want to exit the app, enter "exit" in the console.
